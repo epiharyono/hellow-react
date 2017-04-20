@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##REACT CRUD
 A simple CRUD application in React JS with PHP as the server-side language, and MySQL Database.
 
@@ -34,3 +35,7 @@ class Database{
 ```
 
 ####4. Run the app on your browser.
+=======
+# hellow-word
+Testing saja
+>>>>>>> dab3d3fabf2fa62bfc41a5ed7c70d0cf442a141a
